@@ -1,5 +1,5 @@
 # Contribution
- You are welcome to Contribute to this project if you make some valuable changes/improvements to the game. 
+ You are welcome to Contribute to this project if you can make some valuable changes/improvements to the game. 
 
 # How to contribute!
 
