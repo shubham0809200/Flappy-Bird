@@ -3,7 +3,7 @@
 It is the very famous Flappy Bird game made using Processing which is an open-source graphical library and integrated development environment (IDE) and it uses Java as a language. As I have coded the game on my phone, I have made it to be playable on mobile devices only by keeping the orientation as portrait. There are numerous features that one can add and make the game amazing by using some creativity and logic.
 
 <p align="center">
-  <img width="368" height="800" src="game.gif">
+  <img width="368" height="800" src="Game.gif">
 </p>
 
 ## Some Background of the Game
